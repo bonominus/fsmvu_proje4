@@ -258,7 +258,7 @@ public class AdminManagement extends javax.swing.JDialog {
     }//GEN-LAST:event_deleteButtonActionPerformed
 
     private String admin_uuid;
-    private String supreme_admin_uuid = "a8f16508-cddd-492b-8fe4-2515d119833d"; //UUID of original admin. This is the one
+    private String supreme_admin_uuid = "a8f16508-cddd-492b-8fe4-2515d119833d"; // UUID of original admin. This is the one
                                                                                 // the functions check against
     private DefaultTableModel model;
     private DateTimeFormatter date_formatter;
