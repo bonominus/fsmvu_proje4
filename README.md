@@ -2,6 +2,8 @@
 
 This project is a basic library automation system written as part of the aforementioned course.
 
+[Screenshots](screenshots) are provided.
+
 ## Features
 ### Users
 - Borrowing/returning books
