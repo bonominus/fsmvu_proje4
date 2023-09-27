@@ -29,7 +29,7 @@ Run these three files as is on the DB before you run the program.
 
 After doing these, you need to perform additional steps. The reason is that project assumes a supreme/original admin whose account cannot be modified or deleted by other admins. What you need to do is running this code on "members" table.
 
-```
+```sql
 INSERT INTO `members`
 (`email`, `password`, `fullname`,
  `birthday`, `uuid`, `admin`)
