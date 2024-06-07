@@ -1,4 +1,4 @@
-# Second project for FSMVU BLM22104/BLM22106
+# Library Automation System
 
 This project is a basic library automation system written as part of the aforementioned course.
 
